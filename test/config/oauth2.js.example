@@ -1,8 +1,8 @@
 module.exports = {
   loginUrl: "https://login.salesforce.com",
-  clientId : "oauth2 client id is here",
-  clientSecret : "oauth2 client secret is here",
-  redirectUri : "http://localhost:4000/oauth2/callback",
-  username : "username@example.com",
-  password : "your password is here"
+  clientId : "3MVG9uudbyLbNPZOqT8XQOL2Opr0Sn8xBE2GjJnIiFDUPt4LJHOlN8at8vHoP6JG8lDtZEUkwMEG7dyR5OPlQ",
+  clientSecret : "1669980603362207588",
+  redirectUri : "https:/www.mysite.com",
+  username : "jmpinheiro11@gmail.com",
+  password : "!#Cadm34789"
 };
